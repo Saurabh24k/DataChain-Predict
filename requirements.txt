@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+transformers
+faiss-cpu
+powerbiclient
+openai
+fastapi
+uvicorn
+requests
+jupyter
+
